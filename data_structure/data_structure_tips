@@ -1,0 +1,16 @@
+tips
+
+
+When you implement a data structure, here is the right bracket:
+tuple use ()
+example: ('a', 'b', 'c')
+
+list use []
+example: ['a', 'b', 'c']
+
+dictionary {}
+example: {
+'li' : 'li@a.com'
+'wang' : 'wang@a.com'
+'zhao' : 'zhao@a.com'
+}
